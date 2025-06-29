@@ -15,5 +15,5 @@ I'm a passionate future Software Engineer working towards mastering AI, Machine 
 - Make daily commits 💪
 
 ## 🔗 Connect with me
-- LinkedIn: [YourProfileLink]
+- LinkedIn: [.]
 - Portfolio: Coming soon...
