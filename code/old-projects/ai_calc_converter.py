@@ -1,6 +1,9 @@
 # ai_calc_converter.py
+
 # 📌 A simple calculator and weight converter
+
 # 🧠 Built by Shriram | Year: 2023 (reuploaded in 2025)
+
 # 🛠 Functions: Performs basic arithmetic or converts pounds ↔ kilograms
 
 # Choose functionality
