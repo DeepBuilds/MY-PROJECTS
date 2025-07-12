@@ -7,12 +7,15 @@
 # 🛠 Functions: Performs basic arithmetic or converts pounds ↔ kilograms
 
 # Choose functionality
+
 choice = input("Choose mode: (e = calculator, d = weight converter): ")
 
 if choice == "e":
     # Calculator mode
     num1 = float(input("Enter first number: "))
+   
     num2 = float(input("Enter second number: "))
+    
     operator = input("Choose operation (+, -, *, /, //): ")
 
     if operator == "+":
@@ -31,6 +34,7 @@ if choice == "e":
 elif choice == "d":
     # Weight converter mode
     weight = float(input("Enter weight: "))
+   
     unit = input("Unit (lb or kg): ").lower()
 
     if unit == "lb":
